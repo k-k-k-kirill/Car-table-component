@@ -1,0 +1,122 @@
+[
+    {
+        "model": "Audi",
+        "make": "A4",
+        "price": 25000,
+        "mileage": 12000,
+        "year": 2014
+    },
+    
+    {
+        "model": "Audi",
+        "make": "A3",
+        "price": 35000,
+        "mileage": 124000,
+        "year": 2019
+    },
+    
+    {
+        "model": "BMW",
+        "make": "bmw convertible",
+        "price": 29000,
+        "mileage": 90000,
+        "year": 2014
+    },
+    {
+        "model": "BMW",
+        "make": "M3",
+        "price": 35000,
+        "mileage": 42000,
+        "year": 2013
+    },
+    {
+        "model": "Audi",
+        "make": "A4",
+        "price": 25000,
+        "mileage": 12000,
+        "year": 2014
+    },
+    
+    {
+        "model": "Audi",
+        "make": "A3",
+        "price": 35000,
+        "mileage": 124000,
+        "year": 2019
+    },
+    
+    {
+        "model": "BMW",
+        "make": "bmw convertible",
+        "price": 29000,
+        "mileage": 90000,
+        "year": 2014
+    },
+    {
+        "model": "BMW",
+        "make": "M3",
+        "price": 35000,
+        "mileage": 42000,
+        "year": 2013
+    },
+    {
+        "model": "Audi",
+        "make": "A4",
+        "price": 25000,
+        "mileage": 12000,
+        "year": 2014
+    },
+    
+    {
+        "model": "Audi",
+        "make": "A3",
+        "price": 35000,
+        "mileage": 124000,
+        "year": 2019
+    },
+    
+    {
+        "model": "BMW",
+        "make": "bmw convertible",
+        "price": 29000,
+        "mileage": 90000,
+        "year": 2014
+    },
+    {
+        "model": "BMW",
+        "make": "M3",
+        "price": 35000,
+        "mileage": 42000,
+        "year": 2013
+    },
+    {
+        "model": "Audi",
+        "make": "A4",
+        "price": 25000,
+        "mileage": 12000,
+        "year": 2014
+    },
+    
+    {
+        "model": "Audi",
+        "make": "A3",
+        "price": 35000,
+        "mileage": 124000,
+        "year": 2019
+    },
+    
+    {
+        "model": "Othercar",
+        "make": "bmw convertible",
+        "price": 29000,
+        "mileage": 90000,
+        "year": 2014
+    },
+    {
+        "model": "Othercar",
+        "make": "M3",
+        "price": 35000,
+        "mileage": 42000,
+        "year": 2013
+    }
+]

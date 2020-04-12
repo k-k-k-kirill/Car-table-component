@@ -1,0 +1,40 @@
+.filter {
+    &__container {
+        display: inline-block;
+        margin-left: 10px;
+        width: 120px;
+    }
+}
+
+.car-table {
+    &__header {
+        display: inline-flex;
+        flex-direction: row;
+        align-items: center;
+
+        .arrow {
+            display: inline-block;
+            margin-left: 10px;
+            margin-bottom: 3px;
+            width: 10px;
+            height: 10px;
+            transition: all 0.15s ease-in-out;
+    
+            &--up {
+                transform: rotate(180deg);
+            }
+        }
+    }
+    &__container {
+        height: 500px;
+        overflow: scroll;
+
+        &--mobile {
+            height: 100%;
+        }
+    }
+}
+
+.pagination {
+    margin-top: 1rem;
+}
